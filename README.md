@@ -1,5 +1,8 @@
 # 📋 Portfolio Admin: Automated Ingestion Dashboard
 
+> **[Internal Utility]**
+> *A self-contained React and Firebase administrative dashboard used internally for centralized portfolio ingestion and media management across multiple deployments.*
+
 A React and Firebase dashboard for project ingestion and portfolio management. Provides an interface for updating project metadata and assets in Firestore.
 
 - ⚙️ **Project Ingestion**: Logic for adding new projects with automated metadata generation.
